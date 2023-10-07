@@ -55,3 +55,7 @@ To swap the positions of two columns, simply click and drag one column header ov
 ### Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
+
+// warum mache ich den scheiss hier eigentlich?

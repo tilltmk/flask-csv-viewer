@@ -9,13 +9,13 @@ CSV Viewer is a web application built with HTML, CSS, and JavaScript, allowing u
 
 ## Features
 
-[x] Upload CSV files for viewing
-[x] Download the current data set with a secret key
-[x] Search for text within table cells
-[x] Toggle columns on/off
-[x] Dynamic column swapping
-[x] Scrollable table with custom-styled scrollbar
-[x] Dark Mode UI
+- [x]  Upload CSV files for viewing
+- [x]  Download the current data set with a secret key
+- [x]  Search for text within table cells
+- [x]  Toggle columns on/off
+- [x]  Dynamic column swapping
+- [x]  Scrollable table with custom-styled scrollbar
+- [x]  Dark Mode UI
 
 ## Technologies Used
 

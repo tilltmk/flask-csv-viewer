@@ -27,8 +27,12 @@ CSV Viewer is a web application built with HTML, CSS, and JavaScript, allowing u
 
 ## Installation and Setup
 
-Clone this repository or download the source code.
-Open the index.html file in your web browser.
+Requires: Python 3; Pip: Flask, pandas
+Clone this repository or download the source code and run the app.py with
+
+```python
+python3 app.py
+```
 
 ## Usage
 

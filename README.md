@@ -28,11 +28,11 @@ CSV Viewer is a web application built with HTML, CSS, and JavaScript, allowing u
 ## Installation and Setup
 
 Requires: Python 3; Pip: Flask, pandas
-Clone this repository or download the source code and run the app.py with
+Clone this repository or download the source code and run the tableview.py with
 
-```python
-python3 app.py
-```
+'''python3
+python3 tableview.py
+'''
 
 ## Usage
 
